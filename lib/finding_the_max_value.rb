@@ -10,4 +10,4 @@ def find_max_value(array)
   max_value
 end
 
-find_max_value
+find_max_value([500,4,1000,5,250])
