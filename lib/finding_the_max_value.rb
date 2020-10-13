@@ -11,4 +11,4 @@ def find_max_value(array)
 end
 
 scale = [500,4,1000,5,250]
-find_max_value(scale)
+ puts find_max_value(scale)
